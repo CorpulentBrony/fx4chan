@@ -1,0 +1,3 @@
+name = "fx4chan"
+main = "indexCloudFlare.js"
+compatibility_date = "2025-10-17"
